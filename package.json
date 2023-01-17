@@ -1,0 +1,30 @@
+{
+  "name": "twitch-votes",
+  "version": "1.0.0",
+  "description": "Make simple and customizable Twitch chat votes!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTheM/Twitch-Votes.git"
+  },
+  "keywords": [
+    "twitch",
+    "votes",
+    "voting",
+    "chat",
+    "vote",
+    "twitch",
+    "vote",
+    "chat",
+    "votes"
+  ],
+  "author": "m.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevTheM/Twitch-Votes/issues"
+  },
+  "homepage": "https://github.com/DevTheM/Twitch-Votes#readme"
+}
